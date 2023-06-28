@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.8757966"
-     inkscape:cx="111.79511"
-     inkscape:cy="325.6489"
+     inkscape:zoom="1.826471"
+     inkscape:cx="191.35261"
+     inkscape:cy="903.10768"
      inkscape:window-width="1916"
      inkscape:window-height="1134"
      inkscape:window-x="0"
@@ -95,6 +95,90 @@
        height="26.458334"
        x="26.458334"
        y="89.958336" />
+    <rect
+       style="fill:#323643;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1"
+       width="26.458334"
+       height="26.458334"
+       x="26.458334"
+       y="116.41667" />
+    <rect
+       style="fill:#292c37;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-7"
+       width="26.458334"
+       height="26.458334"
+       x="26.458336"
+       y="142.875" />
+    <rect
+       style="fill:#242731;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-7-9"
+       width="26.458334"
+       height="26.458334"
+       x="26.458336"
+       y="169.33333" />
+    <rect
+       style="fill:#383d4b;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-7-9-6"
+       width="26.458334"
+       height="26.458334"
+       x="26.458336"
+       y="195.79166" />
+    <rect
+       style="fill:#43495a;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-7-9-6-2"
+       width="26.458334"
+       height="26.458334"
+       x="26.458336"
+       y="222.24998" />
+    <rect
+       style="fill:#303340;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-7-9-6-2-1"
+       width="26.458334"
+       height="26.458334"
+       x="26.458338"
+       y="248.70831" />
+    <rect
+       style="fill:#2c2c2c;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-2"
+       width="26.458334"
+       height="26.458334"
+       x="-1.9073486e-06"
+       y="116.41667" />
+    <rect
+       style="fill:#292929;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-2-06"
+       width="26.458334"
+       height="26.458334"
+       x="-1.9073486e-06"
+       y="195.79166" />
+    <rect
+       style="fill:#383838;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-2-06-6"
+       width="26.458334"
+       height="26.458334"
+       x="-1.9073486e-06"
+       y="222.24998" />
+    <rect
+       style="fill:#292929;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-2-06-6-8"
+       width="26.458334"
+       height="26.458334"
+       x="-1.9073486e-06"
+       y="248.70831" />
+    <rect
+       style="fill:#272727;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-2-0"
+       width="26.458334"
+       height="26.458334"
+       x="-1.9073486e-06"
+       y="142.875" />
+    <rect
+       style="fill:#222222;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
+       id="rect254-3-3-6-2-1-2-0-3"
+       width="26.458334"
+       height="26.458334"
+       x="-1.9073486e-06"
+       y="169.33333" />
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:5.29167px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#b3b3b3;stroke-width:1;stroke-linejoin:round"
@@ -117,5 +201,16 @@
          style="fill:#000000;stroke-width:1"
          x="39.740417"
          y="7.3289595">Original</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.29167px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:1;stroke-linejoin:round"
+       x="143.0571"
+       y="117.7925"
+       id="text40317"><tspan
+         sodipodi:role="line"
+         id="tspan40315"
+         style="stroke-width:1"
+         x="143.0571"
+         y="117.7925">https://coolors.co/gradient-palette/161616-303030?number=20</tspan></text>
   </g>
 </svg>
