@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="227mm"
+   width="286mm"
    height="90mm"
-   viewBox="0 0 227 90"
+   viewBox="0 0 286 90"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4921749"
-     inkscape:cx="858.47843"
-     inkscape:cy="129.67648"
+     inkscape:zoom="0.61074415"
+     inkscape:cx="252.97009"
+     inkscape:cy="156.36662"
      inkscape:window-width="1916"
      inkscape:window-height="1014"
      inkscape:window-x="1920"
@@ -35,12 +35,12 @@
      inkscape:current-layer="layer1"
      showguides="true">
     <sodipodi:guide
-       position="65.743662,82.062224"
+       position="65.743682,82.062205"
        orientation="0,-1"
        id="guide7937"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="46.294158,86.692434"
+       position="46.294172,86.692416"
        orientation="0,-1"
        id="guide7939"
        inkscape:locked="false" />
@@ -52,12 +52,25 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
+       style="fill:#ffffff;stroke-width:1;stroke-linejoin:round"
+       id="rect337"
+       width="285.75003"
+       height="89.958305"
+       x="0"
+       y="0"
+       inkscape:export-filename="colors.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
        style="fill:#1f1f1f;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
        id="rect254"
        width="26.458334"
        height="26.458334"
        x="0"
-       y="10.583333" />
+       y="10.583333"
+       inkscape:export-filename="colors.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <rect
        style="fill:#202020;fill-opacity:1;stroke-width:1.06117;stroke-linejoin:round"
        id="rect254-5"
