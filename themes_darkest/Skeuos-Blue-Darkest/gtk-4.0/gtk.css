@@ -534,7 +534,7 @@ button {
     button:disabled:checked {
       color: #888a8d;
       border-color: #0d0e11;
-      background-image: image(#1a1c23);
+      background-image: image(#171717 /* Original: #1a1c23 */);
       box-shadow: none; }
   button.sidebar-button, notebook > header > tabs > arrow, windowcontrols button, notebook > header > tabs > arrow.flat,
   button.flat {
@@ -625,7 +625,7 @@ button.osd {
     color: white;
     border-color: black;
     background-color: transparent;
-    background-image: image(#1a1c23);
+    background-image: image(#171717 /* Original: #1a1c23 */);
     background-clip: padding-box;
     border: none;
     box-shadow: none; }
@@ -652,7 +652,7 @@ button.osd {
     color: white;
     border-color: black;
     background-color: transparent;
-    background-image: image(#1a1c23);
+    background-image: image(#171717 /* Original: #1a1c23 */);
     background-clip: padding-box; }
   .app-notification button:active, popover.background.touch-selection button:active, popover.background.magnifier button:active, .app-notification button:checked, popover.background.touch-selection button:checked, popover.background.magnifier button:checked, .osd button:active:backdrop, .osd button:active, .osd button:checked:backdrop, .osd button:checked {
     color: white;
@@ -678,7 +678,7 @@ button.osd {
       color: white;
       border-color: black;
       background-color: transparent;
-      background-image: image(#1a1c23);
+      background-image: image(#171717 /* Original: #1a1c23 */);
       background-clip: padding-box; }
     .app-notification button.flat:disabled, popover.background.touch-selection button.flat:disabled, popover.background.magnifier button.flat:disabled, .osd button.flat:disabled {
       color: #97999f;
@@ -1212,7 +1212,7 @@ spinbutton {
       box-shadow: none;
       color: white;
       border-color: rgba(0, 0, 0, 0.5);
-      background-color: #1a1c23;
+      background-color: #171717 /* Original: #1a1c23 */;
       -gtk-icon-shadow: 0 1px black;
       box-shadow: none; }
     .osd spinbutton:not(.vertical) > button.image-button.up:not(.flat):disabled,
@@ -1267,7 +1267,7 @@ spinbutton {
       color: white;
       border-color: black;
       background-color: transparent;
-      background-image: image(#1a1c23);
+      background-image: image(#171717 /* Original: #1a1c23 */);
       background-clip: padding-box; }
     .osd spinbutton.vertical > button:first-child:active {
       color: white;
@@ -1450,7 +1450,7 @@ headerbar {
   border-style: solid;
   border-color: black;
   border-radius: 0;
-  background: #0d0e11 linear-gradient(to top, #16171d, #1a1c23);
+  background: #0d0e11 linear-gradient(to top, #16171d, #171717 /* Original: #1a1c23 */);
   /* Darken switchbuttons for headerbars. issue #1588 */ }
   .titlebar:backdrop:not(headerbar),
   headerbar:backdrop {
@@ -2555,7 +2555,7 @@ scale {
         color: white;
         border-color: black;
         background-color: transparent;
-        background-image: image(#1a1c23);
+        background-image: image(#171717 /* Original: #1a1c23 */);
         background-clip: padding-box;
         background-color: #303340; }
       .osd scale > trough > slider:active {
@@ -4520,7 +4520,7 @@ switch {
  *************************/
 check,
 radio {
-  background-image: linear-gradient(to bottom, #1e2128 20%, #1a1c23 90%);
+  background-image: linear-gradient(to bottom, #1e2128 20%, #171717 /* Original: #1a1c23 */ 90%);
   border-color: black; }
   check, check:active,
   radio,
@@ -4639,7 +4639,7 @@ windowcontrols {
 headerbar {
   min-height: 40px;
   border-color: black;
-  background: #0d0e11 -gtk-scaled(url("assets/kali-headerbar-logo-dark.png"), url("assets/kali-headerbar-logo-dark@2.png")), linear-gradient(to top, #16171d, #1a1c23);
+  background: #0d0e11 -gtk-scaled(url("assets/kali-headerbar-logo-dark.png"), url("assets/kali-headerbar-logo-dark@2.png")), linear-gradient(to top, #16171d, #171717 /* Original: #1a1c23 */);
   box-shadow: inset 0 1px rgba(238, 238, 236, 0.07);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.75);
   background-repeat: no-repeat;
@@ -4905,7 +4905,7 @@ read if you used those and something break with a version upgrade you're on your
 /* content view background such as thumbnails view in Photos or Boxes */
 @define-color content_view_bg #272a34;
 /* Very contrasty background for text views (@theme_text_color foreground) */
-@define-color text_view_bg #1a1c23;
+@define-color text_view_bg #171717 /* Original: #1a1c23 */;
 .open-document-selector-treeview:hover {
     background-color: alpha(@theme_fg_color, 0.05);
 }
