@@ -5,6 +5,8 @@ Skeuos-GTK-Darkest is a fork of the [Skeuos-GTK](https://github.com/daniruiz/ske
 
 ![Skeuos-GTK-Darkest Screenshot](scheme/colors.png)
 
+![gif](https://github.com/mxcom/skeuos-gtk-darkest/assets/56640416/5dc2c975-8dc1-417d-b9ed-de5fecf22799)
+
 Color scheme range (with a few exceptions): https://coolors.co/gradient-palette/161616-353535?number=30
 
 ## Structure
